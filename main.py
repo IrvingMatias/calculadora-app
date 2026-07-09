@@ -100,3 +100,4 @@ class CalculadoraApp(MDApp):
 
 if __name__ == '__main__':
     CalculadoraApp().run()
+# fix: workflow

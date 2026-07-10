@@ -14,3 +14,7 @@ android.orientation = portrait
 android.api = 30
 android.minapi = 21
 android.package_name = com.tuveterinaria.calculadoraveterinaria
+
+- name: Build APK
+      run: |
+        yes | buildozer android debug
